@@ -8,7 +8,8 @@ using System.Data;
 using System.Data.SqlClient;
 using ManejoBD;
 using System.Windows.Forms;
-//CHTM RANDY
+//CHTM RANDY 
+//CAGARANDY
 namespace HotSoft
 {
     public partial class Login : System.Web.UI.Page
