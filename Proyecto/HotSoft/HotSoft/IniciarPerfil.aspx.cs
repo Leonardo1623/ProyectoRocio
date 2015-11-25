@@ -12,7 +12,7 @@ namespace HotSoft
 {
     public partial class IniciarPerfil : System.Web.UI.Page
     {
-		//CHSM EL TRINI 
+		//COMENTARIO BONITO
         protected void Page_Load(object sender, EventArgs e)
         {
 
